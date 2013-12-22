@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"grunt": "*",
+		"bower": "*"
+	},
+	"engine": {
+		"node": "0.10.24"
+	}
+}
